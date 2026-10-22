@@ -18,3 +18,5 @@
 1. 克隆项目
    ```bash
    git clone https://github.com/Lonng-12/enterprise-qa-agent.git
+## 📸 运行截图
+<img width="2551" height="1504" alt="image" src="https://github.com/user-attachments/assets/cbd2b8f8-45a3-4f12-893f-d20b51fe9d5c" />
